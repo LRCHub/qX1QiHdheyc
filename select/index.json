@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "抜け空",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:20:22.533867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抜け空",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_抜け空_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抜け空",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_抜け空_Ado.txt"
+    }
+  ]
+}
